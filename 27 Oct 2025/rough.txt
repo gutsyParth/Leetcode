@@ -1,0 +1,9 @@
+idea 1:
+
+s, index, source, target
+
+ptr2
+
+keep ptr2 at index
+
+keep a loop for s
